@@ -18,11 +18,11 @@
 		</dependency>
 	</dependencies>
 
-	<!-- <scm>
+	<scm>
 		<connection>scm:git:https://github.com/KailasPrajapati/SpringBootExample</connection>
 		<developerConnection>scm:git:file://D:/kailas/eclipseWorkSpace/SpringBootExample</developerConnection>
 		<url></url>
-  	</scm> -->
+  	</scm>
 
 	<!-- <distributionManagement>
 		<repository>
