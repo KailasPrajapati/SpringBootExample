@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>SpringBootExample</groupId>
 	<artifactId>SpringBootExample</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<parent>
@@ -18,11 +18,11 @@
 		</dependency>
 	</dependencies>
 
-	<scm>
+	<!-- <scm>
 		<connection>scm:git:https://github.com/KailasPrajapati/SpringBootExample</connection>
 		<developerConnection>scm:git:file://D:/kailas/eclipseWorkSpace/SpringBootExample</developerConnection>
 		<url></url>
-  	</scm>
+  	</scm> -->
 
 	<!-- <distributionManagement>
 		<repository>
